@@ -15,9 +15,9 @@
 | Trợ lý học bài của trang khoá học | học viên | hỏi bài lúc tối muộn, khi không còn ai để hỏi | giảng kèm trích tài liệu, hỏi lại cho rõ, gợi ý từng bước, hay nói thẳng "tài liệu không có, hỏi giảng viên" | học viên hiểu đúng bài mình đang học, không chép đáp án, không học sai mà không biết |
 
 - 3 việc tính năng KHÔNG làm, mỗi việc một câu vì sao.
-+ AI không hỗ trợ giải bài trong thời gian còn hạn làm bài vì 
-+ Những bài giảng không được bịa nguồn vì 
-+ Không trả lời những câu hỏi nằm ngoài pham vị bài giảng vì
++ AI không hỗ trợ giải bài trong thời gian còn hạn làm bài vì khiến cho học viên bị phụ thuộc, lười suy nghĩ.
++ Những bài giảng không được bịa nguồn vì dẫn đến sai sót trong việc tìm hiểu kiến thức.
++ Không trả lời những câu hỏi nằm ngoài pham vi bài giảng vì làm lệch đi định hướng ban đầu là hỗ trợ học viên trong học tập. 
 
 ## §2. Kịch bản rủi ro  (chặng 2)
 - 4 lớp khó
@@ -50,6 +50,10 @@
 ## §3. Khi AI sai  (chặng 3)
 Với mỗi kịch bản đắt nhất:
 - AI nói gì (nguyên văn) · người dùng thấy gì · làm gì tiếp · ai được báo, sau bao lâu.
+- Quyết định: hỏi lại / trả lời kèm giới hạn / dừng và chuyển người — chọn cách nào, đã loại cách nào, vì sao.
+- Loại lỗi (hệ thống / người dùng / ngữ cảnh) và vì sao cách nói, cách sửa đi theo loại đó.
+- 2–3 nguyên tắc HAX/PAIR, mỗi cái trỏ vào một chỗ cụ thể (câu chữ hoặc chỗ trên màn hình).
+- Lỗi nào sửa câu chữ không cứu được (nếu có), và thiết kế cứu nó thế nào.
 
 **Kịch bản A — "Giải giúp em bài tập tuần này, mai nộp rồi"**
 
